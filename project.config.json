@@ -14,7 +14,7 @@
 	},
 	"compileType": "miniprogram",
 	"libVersion": "2.7.3",
-	"appid": "wxa9346804edfc1213",
+	"appid": "填入APPID",
 	"projectname": "tools",
 	"debugOptions": {
 		"hidedInDevtools": []
